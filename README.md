@@ -1,0 +1,1 @@
+This repository contains exercises and practice projects completed while studying Java through courses, tutorials, and self-directed learning. It serves as a reference and reinforcement of core programming concepts.
